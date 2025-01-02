@@ -16,8 +16,6 @@ This is a Stocks-assiegment project
    Create a `.env` file in the root directory and add your MongoDB api key
    ```env
 
-
-   ```
 3. Set up environment variables for Finnhub api key (should be included in env for best practices)
    Change api key inside draft.js file to your own api key
    
