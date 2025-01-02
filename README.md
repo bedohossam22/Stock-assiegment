@@ -31,7 +31,7 @@ This is a Stocks-assiegment project
 ## Deployment
 
 1. Deploy the project on vercel by selecting your github project name .
-2. Ensure your environment variables are configured on your hosting platform (e.g., Vercel for frontend, another service like Render for backend).
+2. Ensure your environment variables are configured on your hosting platform (e.g., Vercel or netlify)
 
 ## Live Demo 
 Vercel :- https://stock-assiegment.vercel.app/
