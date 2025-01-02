@@ -20,7 +20,6 @@ This is a Stocks-assiegment project
    Change api key inside draft.js file to your own api key
    
 
-   ```
 
 4. Start the development server 
    ```bash
