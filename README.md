@@ -36,6 +36,9 @@ This is a Stocks-assiegment project
 1. Deploy the project on vercel .
 2. Ensure your environment variables are configured on your hosting platform (e.g., Vercel for frontend, another service like Render for backend).
 
+## Live Demo 
+Vercel :- https://stock-assiegment.vercel.app/
+Finnhub Api :- https://finnhub.io/docs/api/quote
 
 ## Screenshots
 Thank you 
